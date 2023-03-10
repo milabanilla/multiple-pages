@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(158, 102, 211);
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    
+}
